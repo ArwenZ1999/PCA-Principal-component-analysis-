@@ -1,4 +1,4 @@
-#This is an implementation of PCA and Dual PCA
+# This is an implementation of PCA and Dual PCA
 ## Part 1. Implement PCA and Dual PCA algorithm from scratch
 ## Part 2. Visualisation the projection results
 ## Part 3. Use PCA and Dual PCA for image compresssion
